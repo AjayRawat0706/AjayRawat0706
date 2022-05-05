@@ -8,6 +8,7 @@
 
 
 ## Connect with me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ajayrawat0706@gmail.com)
 [![Instagram](https://img.shields.io/badge/Ajay-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/__ajay__rawat/) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-rawat-78087a239/)
 
