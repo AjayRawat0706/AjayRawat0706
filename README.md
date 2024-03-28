@@ -1,6 +1,6 @@
 🌱 I’m currently learning everything 📝
 - 👯 I’m looking to collaborate with other content creators 🎥
-- 👨‍💻 2022 Goals: Contribute more to Open Source projects 👨‍💻
+- 👨‍💻 2024 Goals: To get a job 👨‍💻
 - 📫 How to reach me **ajayrawat0706@gmail.com**
 
 
